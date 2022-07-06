@@ -1,6 +1,6 @@
 # db-2865-2
 
-![CI none](https://img.shields.io/badge/ci-none-orange.svg)
+[![Github Actions](https://github.com/wjcheng1/db-2865-2/actions/workflows/build_deploy_and_test.yml/badge.svg)](https://github.com/wjcheng1/db-2865-2/actions/workflows/build_deploy_and_test.yml)
 [![Dashboard db-2865-2](https://img.shields.io/badge/dashboard-db_2865_2-yellow.svg)](https://dashboard.pantheon.io/sites/5ff33a4e-40cf-4b7b-b4d8-cfcfe69e34aa#dev/code)
 [![Dev Site db-2865-2](https://img.shields.io/badge/site-db_2865_2-blue.svg)](http://dev-db-2865-2.pantheonsite.io/)
 
