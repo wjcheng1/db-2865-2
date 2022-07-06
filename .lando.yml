@@ -1,0 +1,6 @@
+name: db-2865-2
+recipe: pantheon
+config:
+  framework: wordpress
+  site: db-2865-2
+
